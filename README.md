@@ -1,8 +1,6 @@
 # 👋 Welcome to my Tech Space! I'm Eng. Sara 
 
-<p align="center">
-  <img src="https://blogs.windows.com/wp-content/uploads/prod/sites/2/2021/11/Windows-11-AI-Header.jpg" width="100%" alt="AI & Robotics Header" />
-</p>
+
 ### 🚀 About Me
 An ambitious **AI & Data Science Engineer** driven by a passion to decode data, engineer intelligent applications, and build robotic systems that shape the future. 
 
